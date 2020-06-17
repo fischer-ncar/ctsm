@@ -834,7 +834,7 @@ lnd/clm2/surfdata_map/surfdata_ne0np4.ARCTICGRIS.ne30x8_hist_78pfts_CMIP6_simyr1
 <flanduse_timeseries hgrid="ne0np4.ARCTICGRIS.ne30x8"      sim_year_range="1850-2000"  irrigate=".true."
  use_crop=".false."  > lnd/clm2/surfdata_map/landuse.timeseries_ne0np4.ARCTICGRIS.ne30x8_hist_16pfts_Irrig_CMIP6_simyr1850-2015_c191209.nc</flanduse_timeseries>
 <flanduse_timeseries hgrid="ne30np4"            sim_year_range="1850-2000"  irrigate=".true."
- use_crop=".false."  >lnd/clm2/surfdata_map/landuse_timeseries_ne30np4_hist_16pfts_Irrig_CMIP6_simyr1850-2015_c170824.nc</flanduse_timeseries>
+ use_crop=".false."  >lnd/clm2/surfdata_map/landuse.timeseries_ne30np4_hist_16pfts_Irrig_CMIP6_simyr1850-2015_c170824.nc</flanduse_timeseries>
 
 
 <!-- Dynamic PFT surface datasets for crop -->
